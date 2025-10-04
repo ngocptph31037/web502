@@ -1,0 +1,81 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Sản phẩm 1",
+      "description": "Mô tả sản phẩm 1",
+      "price": 100000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSES4iqSuomoHK4ReEYV73dFSBE5_A4ojmtzw&s"
+    },
+    {
+      "id": 2,
+      "name": "Sản phẩm 2",
+      "description": "Mô tả sản phẩm 2",
+      "price": 200000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSES4iqSuomoHK4ReEYV73dFSBE5_A4ojmtzw&s"
+    },
+    {
+      "id": 3,
+      "name": "Sản phẩm 3",
+      "description": "Mô tả sản phẩm 3",
+      "price": 150000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSES4iqSuomoHK4ReEYV73dFSBE5_A4ojmtzw&s"
+    },
+    {
+      "id": 4,
+      "name": "Sản phẩm 4",
+      "description": "Mô tả sản phẩm 4",
+      "price": 120000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSES4iqSuomoHK4ReEYV73dFSBE5_A4ojmtzw&s"
+    },
+    {
+      "id": 5,
+      "name": "Sản phẩm 5",
+      "description": "Mô tả sản phẩm 5",
+      "price": 300000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSES4iqSuomoHK4ReEYV73dFSBE5_A4ojmtzw&s"
+    },
+    {
+      "id": 6,
+      "name": "Sản phẩm 6",
+      "description": "Mô tả sản phẩm 6",
+      "price": 180000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSES4iqSuomoHK4ReEYV73dFSBE5_A4ojmtzw&s"
+    },
+    {
+      "id": 7,
+      "name": "Sản phẩm 7",
+      "description": "Mô tả sản phẩm 7",
+      "price": 250000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSES4iqSuomoHK4ReEYV73dFSBE5_A4ojmtzw&s"
+    },
+    {
+      "id": 8,
+      "name": "Sản phẩm 8",
+      "description": "Mô tả sản phẩm 8",
+      "price": 220000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSES4iqSuomoHK4ReEYV73dFSBE5_A4ojmtzw&s"
+    },
+    {
+      "id": 9,
+      "name": "Sản phẩm 9",
+      "description": "Mô tả sản phẩm 9",
+      "price": 140000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSES4iqSuomoHK4ReEYV73dFSBE5_A4ojmtzw&s"
+    },
+    {
+      "id": 10,
+      "name": "Sản phẩm 10",
+      "description": "Mô tả sản phẩm 10",
+      "price": 170000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSES4iqSuomoHK4ReEYV73dFSBE5_A4ojmtzw&s"
+    },
+    {
+      "id": 11,
+      "name": "Sản phẩm 11",
+      "description": "Mô tả sản phẩm 11",
+      "price": 190000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSES4iqSuomoHK4ReEYV73dFSBE5_A4ojmtzw&s"
+    }
+  ]
+}
