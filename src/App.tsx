@@ -1,17 +1,12 @@
 import { useEffect, useState } from "react";
-
-interface User {
-  id: number;
-  name: string;
-  phone: string;
-  website: string;
-}
+import UserList, { User } from "./components/User";
 
 export default function App() {
   const [users, setUsers] = useState<User[]>([]);
   const [selectedUser, setSelectedUser] = useState<User | null>(null);
   const [loading, setLoading] = useState<boolean>(true);
   const [error, setError] = useState<string>("");
+
   useEffect(() => {
     fetch("https://jsonplaceholder.typicode.com/users")
       .then((res) => {
@@ -38,25 +33,14 @@ export default function App() {
       }}
     >
       <h1 style={{ textAlign: "center" }}>useEffect</h1>
+
       {loading && <p>Đang tải danh sách người dùng...</p>}
       {error && <p style={{ color: "red" }}>{error}</p>}
+
       {!loading && !error && (
-        <ul style={{ lineHeight: "1.8", listStyle: "decimal" }}>
-          {users.map((user) => (
-            <li
-              key={user.id}
-              style={{
-                cursor: "pointer",
-                borderBottom: "1px solid #ddd",
-                padding: "4px 0",
-              }}
-              onClick={() => setSelectedUser(user)}
-            >
-              {user.id}. {user.name} | {user.phone}
-            </li>
-          ))}
-        </ul>
+        <UserList users={users} onSelect={setSelectedUser} />
       )}
+
       <h2 style={{ marginTop: "30px" }}>Thông tin chi tiết</h2>
       <div
         style={{
