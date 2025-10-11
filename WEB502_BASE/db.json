@@ -1,0 +1,424 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 15 Pro",
+      "description": "Sản phẩm iPhone 15 Pro chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 22613477,
+      "image": "https://picsum.photos/seed/prod1/600/400"
+    },
+    {
+      "id": 2,
+      "name": "iPhone 14",
+      "description": "Sản phẩm iPhone 14 chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 19910047,
+      "image": "https://picsum.photos/seed/prod2/600/400"
+    },
+    {
+      "id": 3,
+      "name": "Samsung Galaxy S24",
+      "description": "Sản phẩm Samsung Galaxy S24 chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 18145111,
+      "image": "https://picsum.photos/seed/prod3/600/400"
+    },
+    {
+      "id": 4,
+      "name": "Xiaomi 14T",
+      "description": "Sản phẩm Xiaomi 14T chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 10391063,
+      "image": "https://picsum.photos/seed/prod4/600/400"
+    },
+    {
+      "id": 5,
+      "name": "OPPO Reno12",
+      "description": "Sản phẩm OPPO Reno12 chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 10472942,
+      "image": "https://picsum.photos/seed/prod5/600/400"
+    },
+    {
+      "id": 6,
+      "name": "MacBook Air M2 13",
+      "description": "Sản phẩm MacBook Air M2 13 chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 28989517,
+      "image": "https://picsum.photos/seed/prod6/600/400"
+    },
+    {
+      "id": 7,
+      "name": "MacBook Pro M3 14",
+      "description": "Sản phẩm MacBook Pro M3 14 chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 30196205,
+      "image": "https://picsum.photos/seed/prod7/600/400"
+    },
+    {
+      "id": 8,
+      "name": "ASUS ROG Zephyrus",
+      "description": "Sản phẩm ASUS ROG Zephyrus chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 34860735,
+      "image": "https://picsum.photos/seed/prod8/600/400"
+    },
+    {
+      "id": 9,
+      "name": "Lenovo ThinkPad X1",
+      "description": "Sản phẩm Lenovo ThinkPad X1 chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 25593993,
+      "image": "https://picsum.photos/seed/prod9/600/400"
+    },
+    {
+      "id": 10,
+      "name": "Dell XPS 13",
+      "description": "Sản phẩm Dell XPS 13 chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 28990702,
+      "image": "https://picsum.photos/seed/prod10/600/400"
+    },
+    {
+      "id": 11,
+      "name": "iPad Air M2",
+      "description": "Sản phẩm iPad Air M2 chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 15099641,
+      "image": "https://picsum.photos/seed/prod11/600/400"
+    },
+    {
+      "id": 12,
+      "name": "iPad Pro M4",
+      "description": "Sản phẩm iPad Pro M4 chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 16017136,
+      "image": "https://picsum.photos/seed/prod12/600/400"
+    },
+    {
+      "id": 13,
+      "name": "Apple Watch Series 10",
+      "description": "Sản phẩm Apple Watch Series 10 chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 8147764,
+      "image": "https://picsum.photos/seed/prod13/600/400"
+    },
+    {
+      "id": 14,
+      "name": "AirPods Pro 2",
+      "description": "Sản phẩm AirPods Pro 2 chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 4698837,
+      "image": "https://picsum.photos/seed/prod14/600/400"
+    },
+    {
+      "id": 15,
+      "name": "Sony WH-1000XM5",
+      "description": "Sản phẩm Sony WH-1000XM5 chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 7209838,
+      "image": "https://picsum.photos/seed/prod15/600/400"
+    },
+    {
+      "id": 16,
+      "name": "JBL Flip 6",
+      "description": "Sản phẩm JBL Flip 6 chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 2219774,
+      "image": "https://picsum.photos/seed/prod16/600/400"
+    },
+    {
+      "id": 17,
+      "name": "Logitech MX Master 3S",
+      "description": "Sản phẩm Logitech MX Master 3S chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 2076993,
+      "image": "https://picsum.photos/seed/prod17/600/400"
+    },
+    {
+      "id": 18,
+      "name": "Keychron K2",
+      "description": "Sản phẩm Keychron K2 chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 1832135,
+      "image": "https://picsum.photos/seed/prod18/600/400"
+    },
+    {
+      "id": 19,
+      "name": "Razer DeathAdder V3",
+      "description": "Sản phẩm Razer DeathAdder V3 chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 1592829,
+      "image": "https://picsum.photos/seed/prod19/600/400"
+    },
+    {
+      "id": 20,
+      "name": "Canon EOS R50",
+      "description": "Sản phẩm Canon EOS R50 chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 16223395,
+      "image": "https://picsum.photos/seed/prod20/600/400"
+    },
+    {
+      "id": 21,
+      "name": "Nikon Z6 II",
+      "description": "Sản phẩm Nikon Z6 II chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 21223277,
+      "image": "https://picsum.photos/seed/prod21/600/400"
+    },
+    {
+      "id": 22,
+      "name": "GoPro Hero 12",
+      "description": "Sản phẩm GoPro Hero 12 chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 12475534,
+      "image": "https://picsum.photos/seed/prod22/600/400"
+    },
+    {
+      "id": 23,
+      "name": "DJI Mini 4 Pro",
+      "description": "Sản phẩm DJI Mini 4 Pro chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 17424901,
+      "image": "https://picsum.photos/seed/prod23/600/400"
+    },
+    {
+      "id": 24,
+      "name": "Samsung 990 Pro 1TB",
+      "description": "Sản phẩm Samsung 990 Pro 1TB chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 4189931,
+      "image": "https://picsum.photos/seed/prod24/600/400"
+    },
+    {
+      "id": 25,
+      "name": "WD Black SN850X 2TB",
+      "description": "Sản phẩm WD Black SN850X 2TB chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 6002934,
+      "image": "https://picsum.photos/seed/prod25/600/400"
+    },
+    {
+      "id": 26,
+      "name": "Seagate Backup Plus 5TB",
+      "description": "Sản phẩm Seagate Backup Plus 5TB chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 3095420,
+      "image": "https://picsum.photos/seed/prod26/600/400"
+    },
+    {
+      "id": 27,
+      "name": "Anker PowerCore 20K",
+      "description": "Sản phẩm Anker PowerCore 20K chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 1102259,
+      "image": "https://picsum.photos/seed/prod27/600/400"
+    },
+    {
+      "id": 28,
+      "name": "Kindle Paperwhite 11",
+      "description": "Sản phẩm Kindle Paperwhite 11 chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 3217701,
+      "image": "https://picsum.photos/seed/prod28/600/400"
+    },
+    {
+      "id": 29,
+      "name": "Nintendo Switch OLED",
+      "description": "Sản phẩm Nintendo Switch OLED chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 8555990,
+      "image": "https://picsum.photos/seed/prod29/600/400"
+    },
+    {
+      "id": 30,
+      "name": "PS5 Slim",
+      "description": "Sản phẩm PS5 Slim chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 14290432,
+      "image": "https://picsum.photos/seed/prod30/600/400"
+    },
+    {
+      "id": 31,
+      "name": "Xbox Series X",
+      "description": "Sản phẩm Xbox Series X chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 14329246,
+      "image": "https://picsum.photos/seed/prod31/600/400"
+    },
+    {
+      "id": 32,
+      "name": "Mi TV 55 inch 4K",
+      "description": "Sản phẩm Mi TV 55 inch 4K chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 9413517,
+      "image": "https://picsum.photos/seed/prod32/600/400"
+    },
+    {
+      "id": 33,
+      "name": "LG OLED C3 55",
+      "description": "Sản phẩm LG OLED C3 55 chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 30217368,
+      "image": "https://picsum.photos/seed/prod33/600/400"
+    },
+    {
+      "id": 34,
+      "name": "Sony Bravia X90L 65",
+      "description": "Sản phẩm Sony Bravia X90L 65 chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 28460201,
+      "image": "https://picsum.photos/seed/prod34/600/400"
+    },
+    {
+      "id": 35,
+      "name": "TP-Link Archer AX73",
+      "description": "Sản phẩm TP-Link Archer AX73 chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 2731979,
+      "image": "https://picsum.photos/seed/prod35/600/400"
+    },
+    {
+      "id": 36,
+      "name": "Google Nest Hub 2",
+      "description": "Sản phẩm Google Nest Hub 2 chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 2526020,
+      "image": "https://picsum.photos/seed/prod36/600/400"
+    },
+    {
+      "id": 37,
+      "name": "Philips Hue Starter",
+      "description": "Sản phẩm Philips Hue Starter chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 3410818,
+      "image": "https://picsum.photos/seed/prod37/600/400"
+    },
+    {
+      "id": 38,
+      "name": "Aqara Door Sensor",
+      "description": "Sản phẩm Aqara Door Sensor chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 614222,
+      "image": "https://picsum.photos/seed/prod38/600/400"
+    },
+    {
+      "id": 39,
+      "name": "Dyson V12 Detect",
+      "description": "Sản phẩm Dyson V12 Detect chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 16085120,
+      "image": "https://picsum.photos/seed/prod39/600/400"
+    },
+    {
+      "id": 40,
+      "name": "Panasonic Inverter 1.5HP",
+      "description": "Sản phẩm Panasonic Inverter 1.5HP chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 12185645,
+      "image": "https://picsum.photos/seed/prod40/600/400"
+    },
+    {
+      "id": 41,
+      "name": "Sharp Air Purifier",
+      "description": "Sản phẩm Sharp Air Purifier chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 4684114,
+      "image": "https://picsum.photos/seed/prod41/600/400"
+    },
+    {
+      "id": 42,
+      "name": "Sennheiser Momentum 4",
+      "description": "Sản phẩm Sennheiser Momentum 4 chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 7273319,
+      "image": "https://picsum.photos/seed/prod42/600/400"
+    },
+    {
+      "id": 43,
+      "name": "Bose QC Ultra",
+      "description": "Sản phẩm Bose QC Ultra chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 7470079,
+      "image": "https://picsum.photos/seed/prod43/600/400"
+    },
+    {
+      "id": 44,
+      "name": "Acer Nitro 5",
+      "description": "Sản phẩm Acer Nitro 5 chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 21073307,
+      "image": "https://picsum.photos/seed/prod44/600/400"
+    },
+    {
+      "id": 45,
+      "name": "HP Envy x360 15",
+      "description": "Sản phẩm HP Envy x360 15 chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 19235126,
+      "image": "https://picsum.photos/seed/prod45/600/400"
+    },
+    {
+      "id": 46,
+      "name": "MSI Modern 14",
+      "description": "Sản phẩm MSI Modern 14 chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 16091489,
+      "image": "https://picsum.photos/seed/prod46/600/400"
+    },
+    {
+      "id": 47,
+      "name": "Asus Vivobook 15",
+      "description": "Sản phẩm Asus Vivobook 15 chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 14723204,
+      "image": "https://picsum.photos/seed/prod47/600/400"
+    },
+    {
+      "id": 48,
+      "name": "Realme 12 Pro+",
+      "description": "Sản phẩm Realme 12 Pro+ chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 11467136,
+      "image": "https://picsum.photos/seed/prod48/600/400"
+    },
+    {
+      "id": 49,
+      "name": "iPhone 15 Pro (ver 1)",
+      "description": "Sản phẩm iPhone 15 Pro chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 19221455,
+      "image": "https://picsum.photos/seed/prod49/600/400"
+    },
+    {
+      "id": 50,
+      "name": "iPhone 14 (ver 2)",
+      "description": "Sản phẩm iPhone 14 chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 17520841,
+      "image": "https://picsum.photos/seed/prod50/600/400"
+    },
+    {
+      "id": 51,
+      "name": "Samsung Galaxy S24 (ver 3)",
+      "description": "Sản phẩm Samsung Galaxy S24 chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 16512051,
+      "image": "https://picsum.photos/seed/prod51/600/400"
+    },
+    {
+      "id": 52,
+      "name": "Xiaomi 14T (ver 4)",
+      "description": "Sản phẩm Xiaomi 14T chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 9767599,
+      "image": "https://picsum.photos/seed/prod52/600/400"
+    },
+    {
+      "id": 53,
+      "name": "OPPO Reno12 (ver 5)",
+      "description": "Sản phẩm OPPO Reno12 chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 10158753,
+      "image": "https://picsum.photos/seed/prod53/600/400"
+    },
+    {
+      "id": 54,
+      "name": "MacBook Air M2 13 (ver 6)",
+      "description": "Sản phẩm MacBook Air M2 13 chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 28989517,
+      "image": "https://picsum.photos/seed/prod54/600/400"
+    },
+    {
+      "id": 55,
+      "name": "MacBook Pro M3 14 (ver 7)",
+      "description": "Sản phẩm MacBook Pro M3 14 chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 31102091,
+      "image": "https://picsum.photos/seed/prod55/600/400"
+    },
+    {
+      "id": 56,
+      "name": "ASUS ROG Zephyrus (ver 8)",
+      "description": "Sản phẩm ASUS ROG Zephyrus chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 29631624,
+      "image": "https://picsum.photos/seed/prod56/600/400"
+    },
+    {
+      "id": 57,
+      "name": "Lenovo ThinkPad X1 (ver 9)",
+      "description": "Sản phẩm Lenovo ThinkPad X1 chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 22522713,
+      "image": "https://picsum.photos/seed/prod57/600/400"
+    },
+    {
+      "id": 58,
+      "name": "Dell XPS 13 (ver 10)",
+      "description": "Sản phẩm Dell XPS 13 chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 26381538,
+      "image": "https://picsum.photos/seed/prod58/600/400"
+    },
+    {
+      "id": 59,
+      "name": "iPad Air M2 (ver 11)",
+      "description": "Sản phẩm iPad Air M2 chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 14193662,
+      "image": "https://picsum.photos/seed/prod59/600/400"
+    },
+    {
+      "id": 60,
+      "name": "iPad Pro M4 (ver 12)",
+      "description": "Sản phẩm iPad Pro M4 chính hãng, bảo hành 12 tháng. Hỗ trợ trả góp 0%.",
+      "price": 15536621,
+      "image": "https://picsum.photos/seed/prod60/600/400"
+    }
+  ]
+}
